@@ -26,6 +26,18 @@
   font-size: 12px;
 }
 
+.btn-danger {
+  color: cyan;
+}
+
+.btn-danger:visited{
+  color: cyan;
+}
+
+.navbar-link {
+  height: 25px;
+}
+
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
